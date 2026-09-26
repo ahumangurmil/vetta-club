@@ -1,0 +1,6 @@
+{
+  "name": "Vetta Club",
+  "description": "Vetta Club is a community-driven organization working toward animal welfare, environmental awareness, community support, and meaningful social impact. Small actions. Real change.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
